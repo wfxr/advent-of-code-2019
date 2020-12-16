@@ -42,5 +42,5 @@ fn main() {
 
     let result = p2_solve(&inputs);
     println!("part 2 result: {}", result);
-    assert_eq!(0, result);
+    assert_eq!(4925, result);
 }
